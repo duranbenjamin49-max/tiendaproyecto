@@ -1,0 +1,63 @@
+{
+  "vehiculos": [
+    {
+      "codigo": 101,
+      "marca": "Ferrari",
+      "logo": "https://img.icons8.com/color/48/ferrari.png",
+      "tipo": "Deportivo",
+      "modelo": "SF90 Stradale",
+      "caracteristicas": "Híbrido Enchufable, 1000 CV, 0-100 km/h en 2.5s",
+      "imagen": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=800&q=80",
+      "numeroPuertas": 2,
+      "motor": "V8 Turbo + 3 Motores Eléctricos",
+      "combustible": "Híbrido",
+      "categoria": "Premium",
+      "precio_compra": 520000,
+      "precio_venta": 550000,
+      "precio_alquiler_hora": 150,
+      "precio_alquiler_dia": 1200,
+      "oferta_alquiler": "10% OFF Fin de Semana",
+      "existencia": 2
+    },
+    {
+      "codigo": 102,
+      "marca": "Porsche",
+      "logo": "https://img.icons8.com/color/48/porsche.png",
+      "tipo": "Coupé",
+      "modelo": "911 GT3 RS",
+      "caracteristicas": "Atmósferico de alta revolución, Aerodinámica Activa",
+      "imagen": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
+      "numeroPuertas": 2,
+      "motor": "6 Cilindros Bóxer 4.0L",
+      "combustible": "Gasolina Premium",
+      "categoria": "Supercar",
+      "precio_compra": 275000,
+      "precio_venta": 290000,
+      "precio_alquiler_hora": 95,
+      "precio_alquiler_dia": 850,
+      "oferta_alquiler": "Sin depósito por 3 días",
+      "existencia": 4
+    }
+  ],
+  "motos": [
+    {
+      "codigo": 201,
+      "marca": "Ducati",
+      "logo": "https://img.icons8.com/color/48/motorcycle.png",
+      "tipo": "Superbike",
+      "modelo": "Panigale V4 R",
+      "caracteristicas": "Configuración de Carrera, 218 CV, Aero Wings",
+      "imagen": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=800&q=80",
+      "numeroPuertas": 0,
+      "motor": "Desmosedici Stradale V4",
+      "combustible": "Gasolina",
+      "categoria": "Hyperbike",
+      "precio_compra": 45000,
+      "precio_venta": 48000,
+      "precio_alquiler_hora": 45,
+      "precio_alquiler_dia": 350,
+      "oferta_alquiler": "Casco Premium Incluido",
+      "existencia": 3
+    }
+  ]
+}
